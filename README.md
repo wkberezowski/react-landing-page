@@ -1,1 +1,1 @@
-# React Landing Page
+# GPT-3 Landing Page
